@@ -6,7 +6,7 @@
 #include<string>
 #include<stdlib.h>
 #define SCREEN_WIDTH 600
-#define SCREEN_HEIGHT 900
+#define SCREEN_HEIGHT 600
 bool PAUSE = false;
 using namespace std;
 
