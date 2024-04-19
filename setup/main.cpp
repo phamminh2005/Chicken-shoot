@@ -64,7 +64,7 @@ bool InitSDL()
 	}
 	else
 	{
-		gWindow = SDL_CreateWindow("Games Engine Creation",
+		gWindow = SDL_CreateWindow("Games Chicken Shoot",
 			SDL_WINDOWPOS_UNDEFINED,
 			SDL_WINDOWPOS_UNDEFINED,
 			SCREEN_WIDTH,
