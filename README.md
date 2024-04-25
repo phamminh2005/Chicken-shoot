@@ -1,5 +1,0 @@
-GAME CHICKEN SHOOT
-
-Họ và Tên : Phạm Văn Minh
-MSSV: 23020118
-Lớp : K68CB

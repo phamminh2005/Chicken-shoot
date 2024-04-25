@@ -1,1 +1,40 @@
-﻿  setup.vcxproj -> C:\Users\ACER\Desktop\GameC++\Debug\setup.exe
+﻿  main.cpp
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(183,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(184,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(206,32): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(206,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(206,37): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(206,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(206,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(206,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(206,49): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(206,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(297,2): warning C4091: 'static ': ignored on left of 'Math' when no variable is declared
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(242,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(243,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(246,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(247,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(250,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(251,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(254,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(255,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(336,2): warning C4091: 'static ': ignored on left of 'Score' when no variable is declared
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(319,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(349,2): warning C4091: 'static ': ignored on left of 'Audio' when no variable is declared
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(485,2): warning C4091: 'static ': ignored on left of 'ManagerCharacter' when no variable is declared
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(454,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(482,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(501,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(551,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(636,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(722,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(751,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(758,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(792,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(792,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(808,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(825,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(830,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(947,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\GameC++\setup\main.cpp(1047,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  setup.vcxproj -> C:\Users\ACER\Desktop\GameC++\Debug\setup.exe
