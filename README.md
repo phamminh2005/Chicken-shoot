@@ -25,6 +25,16 @@ git clone https://github.com/phamminh2005/Chicken-shoot.git
 - Cuối cùng, mở project (giải nén file nếu cần) và trải nghiệm game.
 - Nếu không thể khởi động Game hãy liên hệ qua gmail: []()**minhrooney161005@gmail.com**
 
+## Mô tả Game
+### Câu chuyện
+- Người chơi sẽ nhập vai thành một cỗ máy chiến đấu đang chống lại lũ gà xâm chiếm hành tinh. Ở nơi đây, người chơi phải sự dụng sự thông minh và nhanh nhẹn của mình để tiêu diệt lũ gà. Hãy cố gắng tiêu diệt được thật nhiều gà.
+### Cách chơi
+- Người chơi có 1 mạng và phải di chuyển nhanh nhẹn để tiêu diệt được nhiều quái và đạt được số điểm cao.
+- Có 3 loại quái trong game:
+
+   + Loại 1:![alt tag](https://github.com/phamminh2005/Chicken-shoot/blob/master/Debug/Images/Enemy/1.png)
+   + Loaij 2:
+
 
 
 
