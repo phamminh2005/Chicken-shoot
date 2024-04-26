@@ -83,9 +83,9 @@ git clone https://github.com/phamminh2005/Chicken-shoot.git
 - Em học được thêm về cách quản lí project , biết code 1 game C++ đơn giản có sử dụng thư viện SDL2 .Học được cách làm việc với github, kỹ năng debug và tạo README. 
 - Biết được cách 1 game hoạt động như thế nào.
 ### ***Hạn chế***
-- Chưa tách được file thành các file .h,.cpp và .hpp để quản lí project 1 cách dễ dàng hơn. Em đan tìm hiểu và thực hiện việc tách file nhưng trong quá trình đó xuất hiện 1 số lỗi và em chưa khắc phục được.
+- Chưa tách được file thành các file .h,.cpp và .hpp để quản lí project 1 cách dễ dàng hơn. Em đan tìm hiểu và thực hiện việc tách file nhưng trong quá trình đó xuất hiện 1 số lỗi và em chưa khắc phục được. 
 - Game chưa có sự hấp dẫn:
-   + Chưa có sự xuất hiện của BOSS với cách tấn công đa dạng và hay hơn(Bắn tỉa,...).
+   + Chưa có sự xuất hiện của BOSS với cách tấn công đa dạng và hay hơn(Bắn tỉa,...).Em đã cố gắng thêm BOSS vào game nhưng vẫn đang còn 1 số lỗi chưa debug được.
    + Chưa có nhiều loại đạn của Player và cách để thay đổi loại đạn . Có thể là hạ gục Enemy để nhận được 1 item nhất định và sau đó sẽ được nâng cấp đạn.
 - Hướng phát triển về sau:
    + Tạo thêm BOSS và các item để Game được hấp dẫn hơn.
