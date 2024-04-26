@@ -32,8 +32,12 @@ git clone https://github.com/phamminh2005/Chicken-shoot.git
 - Người chơi có 1 mạng và phải di chuyển nhanh nhẹn để tiêu diệt được nhiều quái và đạt được số điểm cao.
 - Có 3 loại quái trong game:
 
-   + Loại 1:![alt tag](https://github.com/phamminh2005/Chicken-shoot/blob/master/Debug/Images/Enemy/1.png)
-   + Loaij 2:
+   + Loại 1: ![alt tag](https://github.com/phamminh2005/Chicken-shoot/blob/master/Debug/Images/Enemy/1.png)
+   + Loại 2: ![alt tag](https://github.com/phamminh2005/Chicken-shoot/blob/master/Images/Enemy/2.png)
+   + Loại 3: ![alt tag](https://github.com/phamminh2005/Chicken-shoot/blob/master/Images/Enemy/3.png)
+
+
+
 
 
 
